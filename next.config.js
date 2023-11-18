@@ -4,6 +4,4 @@ module.exports = {
   images: {
     unoptimized: true,
   },
-  target: "experimental-serverless-trace",
-  // other configurations...
 };
